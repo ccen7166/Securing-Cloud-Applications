@@ -7,20 +7,20 @@ This project aims to use Microsoft Azure to host my own cyber blog web applicati
 
 ### Skills Learned
 
--A better understanding of cloud networking fundamentals
--Developed and designed a cyber-blog web application using Azure’s Cloud services and Docker
--Created and stored SSL certificates in Azure’s Key Vault, and bound them to secure the web application.
--Protected the web application by utilizing Azure’s Security features, such as the Azure WAF, and Security Center.
+- A better understanding of cloud networking fundamentals
+- Developed and designed a cyber-blog web application using Azure’s Cloud services and Docker
+- Created and stored SSL certificates in Azure’s Key Vault, and bound them to secure the web application.
+- Protected the web application by utilizing Azure’s Security features, such as the Azure WAF, and Security Center.
 
 
 ### Tools Used
 
--Azure: {Keyvaults, App Services, WAF}
--GoDaddy domain managment
--PHP 8.2 (backend)
--HTML/CSS (frontend) 
--Docker
--OpenSSL
+- Azure: {Keyvaults, App Services, WAF} 
+- GoDaddy domain managment
+- PHP 8.2 (backend)
+- HTML/CSS (frontend) 
+- Docker
+- OpenSSL
 
 
 ## Steps
